@@ -1,6 +1,7 @@
-
-# 💫 About Me:
-🎓 B.E. student specializing in Artificial Intelligence & Data Science<br>💻 Strong interest in Software Development, AI/ML, and Data Science<br>🐍 Working with Python, Java, C++, JavaScript, HTML, CSS, and SQL<br>🤖 Exploring Machine Learning, Computer Vision, and IoT<br>🗄️ Familiar with MySQL, Git, GitHub, and VS Code<br>🧠 Interested in developing AI-driven and data-centric applications<br>🚀 Focused on building practical, scalable, and innovative projects<br>📚 Continuously improving problem-solving, DSA, and technical skills
+                                           
+#------------------------------------------------------------------------------------------------------------------------------
+                                                   Hey... I'm Shruti !
+-------------------------------------------------------------------------------------------------------------------------------                                                   
 
 
 ## 🌐 Socials:
