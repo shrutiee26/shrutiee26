@@ -1,14 +1,14 @@
  <h2 align="center">
-        Hey, I'm Akshat ⚡
+        Hey, I'm Shruti !
  </h2>
   <p style="text-align: center;">
         Engineering student | Web 3 | AI explorer
  </p>
   <h3>💡 What I Do</h3>
     <ul>
-        <li>🛠️ Build with Node.js, TypeScript, React, MongoDB</li>
+        <li>🛠️ Build with Node.js, Python ,HTML ,CSS</li>
         <li>🤖 Experiment with AI bots & automation</li>
-        <li>🎯 Learning in public, one commit at a time</li>
+        <li>🎯 Learning something new </li>
     </ul>
 
 ## 🌐 Socials:
