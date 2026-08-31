@@ -1,22 +1,15 @@
-<div class="readme">
-
-    <h2 align="center">
+ <h2 align="center">
         Hey, I'm Akshat ⚡
-    </h2>
-
-    <p align="center">
+ </h2>
+  <p style="text-align: center;">
         Engineering student | Web 3 | AI explorer
-    </p>
-
-    <h3>💡 What I Do</h3>
-
+ </p>
+  <h3>💡 What I Do</h3>
     <ul>
         <li>🛠️ Build with Node.js, TypeScript, React, MongoDB</li>
         <li>🤖 Experiment with AI bots & automation</li>
         <li>🎯 Learning in public, one commit at a time</li>
     </ul>
-
-</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chaudhari_shruti__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shruti Chaudhari) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shrutiee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shrutichaudhari650@gmail.com) 
