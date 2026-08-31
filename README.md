@@ -3,7 +3,7 @@
  </h2>
   <p style="text-align: center;">
         Engineering student | Web 3 | AI explorer
- </p>
+  </p>
   <h3>💡 What I Do</h3>
     <ul>
         <li>🛠️ Build with Node.js, Python ,HTML ,CSS</li>
